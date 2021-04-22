@@ -1,0 +1,13 @@
+{
+  "appId": "com.arctivdevs",
+  "appName": "Memory App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
